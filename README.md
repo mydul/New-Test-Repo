@@ -70,10 +70,9 @@ Distributed for all student under the [Universität Siegen](https://www.uni-sieg
 <br> I love to do funs with programming...
 </em></p>
 
-[![Facebook: Mydul](https://img.shields.io/facebook/follow/Mydul?style=social)](https://www.facebook.com/mydul.me)
-[![Twitter: Mydul](https://img.shields.io/twitter/follow/Mydul?style=social)](https://twitter.com/mydul_me)
-[![mydul.me](https://img.shields.io/badge/-mydul.me-blue?style=flat-square&logo=firefox&logoColor=white&link=https://www.mydul.me/)](https://www.mydul.me/)
+[![Facebook: Mydul](https://img.shields.io/facebook/followers/Mydul?style=social)](https://www.facebook.com/mydul.me)
 [![GitHub Mydul](https://img.shields.io/github/followers/mydul?label=follow&style=social)](https://github.com/mydul)
+[![mydul.me](https://img.shields.io/badge/-mydul.me-blue?style=flat-square&logo=firefox&logoColor=white&link=https://www.mydul.me/)](https://www.mydul.me/)
 
 
 A little more about me...  
@@ -89,7 +88,7 @@ const mydul = {
                         delegate: "Model United Nations",
                         member: "IEEE"
                       },
- challenge: "I am seeking a full-time position in the field of Nanotechnology | Semiconductor Manufacturing | Quantum Systems | Photonics | Micro/Nano Fabrication | Analog & Mixed-signal | Hardware Design & Development"
+ challenge: "I am seeking a full-time position in the field of Nanotechnology, Quantum Electronics, Hardware Design & Development"
 }
 ```
 ---
