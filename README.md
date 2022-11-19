@@ -59,9 +59,6 @@ Distributed for all student under the [personal](https://github.com/mydul) licen
 <br> I love to do funs with programming...
 </em></p>
 
-[![GitHub Mydul](https://img.shields.io/github/followers/mydul?label=follow&style=social)](https://github.com/mydul)
-
-
 A little more about me...  
 
 ```javascript
@@ -79,4 +76,5 @@ const mydul = {
 }
 ```
 ---
-⭐️[@mydul](https://github.com/mydul)
+⭐️[@mydul](https://github.com/mydul) [![GitHub Mydul](https://img.shields.io/github/followers/mydul?label=follow&style=social)](https://github.com/mydul)
+
