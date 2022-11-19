@@ -16,6 +16,7 @@ Mainly, the course title is "Scientific programming with Python including applic
 ### Course Goals
 
 To know the core concepts of Python from both a data science and industrial programming perspective. We will learn concepts of Python, machine learning, and computer networks through hands-on programming exercises using scientific datasets from synchrotrons and FEL radiation. To acquire the competence to analyze complex data and large data sets from experiments in the field of X-ray and nanotechnology research. To know the concepts of FAIR data and data management and know how this is dealt with in the DAPHNE4NFDI project.
+
 ## Content
 
 - Introduction to Python: variables, data types, loops, arrays, functions, Classes and Objects, Inheritance, File Manipulation, NumPy, Pandas and Matplotlib.
@@ -60,19 +61,17 @@ Distributed for all student under the [Universität Siegen](https://www.uni-sieg
 
 ## Authors
 
- [@mydul](https://github.com/mydul)
+⭐️[@mydul](https://github.com/mydul)
 
 
-## About Me
+### Hi, I'm Mydul Islam!
 
 I love to do funs with programming...
 
-<h2> Hi, I'm Mydul Islam! </h2>
-<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60"></br> Masters Student at <a href="[https://www.uni-siegen.de/start](https://www.uni-siegen.de/start)">Universität Siegen</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> 
 </em></p>
 
-
-[![Linkedin: Mydul](https://img.shields.io/badge/-mydul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mydul/)](https://www.linkedin.com/in/mydul/)
+[![mydul.me](https://img.shields.io/badge/-mydul.me-blue?style=flat-square&logo=firefox&logoColor=white&link=https://www.mydul.me/)](https://www.mydul.me/)
 [![GitHub Mydul](https://img.shields.io/github/followers/mydul?label=follow&style=social)](https://github.com/mydul)
 
 
@@ -92,9 +91,5 @@ const mydul = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
 ---
 
-⭐️ From [@mydul](https://github.com/mydul)
