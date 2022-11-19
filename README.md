@@ -68,7 +68,7 @@ Distributed for all student under the [Universität Siegen](https://www.uni-sieg
 
 I love to do funs with programming...
 
-<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60"></br> Masters Student at <a href="[https://www.uni-siegen.de/start](https://www.uni-siegen.de/start)">Universität Siegen</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> 
+<img align='right'></br> Masters Student at <a href="[https://www.uni-siegen.de/start](https://www.uni-siegen.de/start)">Universität Siegen</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> 
 </em></p>
 
 [![mydul.me](https://img.shields.io/badge/-mydul.me-blue?style=flat-square&logo=firefox&logoColor=white&link=https://www.mydul.me/)](https://www.mydul.me/)
