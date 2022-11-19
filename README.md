@@ -53,7 +53,7 @@ Distributed for all student under the [personal](https://github.com/mydul) licen
 
 ## Authors
 
-### Hi, I'm Mydul Islam! [![GitHub Mydul](https://img.shields.io/github/follow/mydul?label=follow&style=social)](https://github.com/mydul)
+### Hi, I'm Mydul Islam! [![GitHub Mydul](https://img.shields.io/github/mydul?label=follow&style=social)](https://github.com/mydul)
 
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
 <p><em>Masters Student at <a href="http://www.uni-siegen.de">Universität Siegen</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
