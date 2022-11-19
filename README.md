@@ -70,6 +70,8 @@ Distributed for all student under the [Universität Siegen](https://www.uni-sieg
 <br> I love to do funs with programming...
 </em></p>
 
+[![Facebook: Mydul](https://img.shields.io/facebook/follow/Mydul?style=social)](https://www.facebook.com/mydul.me)
+[![Twitter: Mydul](https://img.shields.io/twitter/follow/Mydul?style=social)](https://twitter.com/mydul_me)
 [![mydul.me](https://img.shields.io/badge/-mydul.me-blue?style=flat-square&logo=firefox&logoColor=white&link=https://www.mydul.me/)](https://www.mydul.me/)
 [![GitHub Mydul](https://img.shields.io/github/followers/mydul?label=follow&style=social)](https://github.com/mydul)
 
@@ -81,13 +83,13 @@ const mydul = {
   pronouns: "He" | "Him",
   code: [C, Python, HTML, CSS, LATEX, MATLAB, VHDL, Arduino],
   tools: [Microsoft Office, Proteus, PSpice, LTSpice, OriginPro, MicroWind, COMSOL Multiphysics, Cadence],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
+  accustomed: ["Linux", "Windows", "Raspbian"],
+  experience: {
+                        research_assistant: "Universität Siegen",
+                        delegate: "Model United Nations",
+                        member: "IEEE"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am seeking a full-time position in the field of Nanotechnology | Semiconductor Manufacturing | Quantum Systems | Photonics | Micro/Nano Fabrication | Analog & Mixed-signal | Hardware Design & Development"
 }
 ```
 ---
