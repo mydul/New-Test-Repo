@@ -1,2 +1,100 @@
-# New-Test-Repo
-A repository containing all test project files, including the revision history of the Python Course by Amir Tosson.
+
+# Python-Test-Repo
+
+A brief description of a new repository containing all test project files, including the revision history of a Python Course.
+
+## Project Goal
+
+This project is under a university course. The main focus is practicing python with a project by sort of real-life examples.
+
+### Course Title
+
+Mainly, the course title is "Scientific programming with Python including applications of machine learning, FAIR data and network programming".
+
+
+
+### Course Goals
+
+To know the core concepts of Python from both a data science and industrial programming perspective. We will learn concepts of Python, machine learning, and computer networks through hands-on programming exercises using scientific datasets from synchrotrons and FEL radiation. To acquire the competence to analyze complex data and large data sets from experiments in the field of X-ray and nanotechnology research. To know the concepts of FAIR data and data management and know how this is dealt with in the DAPHNE4NFDI project.
+## Content
+
+- Introduction to Python: variables, data types, loops, arrays, functions, Classes and Objects, Inheritance, File Manipulation, NumPy, Pandas and Matplotlib.
+
+- Machine learning: Supervised and unsupervised learning techniques, scikit-learn, tensorflow, SciPy, development and training of neural networks.
+
+- Networks and hardware: network services in Python, TPC/IP protocol, socket programming.
+
+- FAIR data: collection of metadata, electronic logbooks, data repositories, data management plans.
+
+## Demo
+
+```python
+try:
+    me = mydul()
+
+    while(me.alive()):
+        me.happy()
+
+except NameError as x:
+    print(x)
+
+else:
+    print("A Person called 'Mydul' ")
+
+
+"""name 'mydul' is not defined"""
+```
+
+
+## License
+
+Distributed for all student under the [Universität Siegen](https://www.uni-siegen.de/start/) licence.
+
+
+## Acknowledgements
+
+- [x]  [Mr. Amir Tosson](https://github.com/amirtosson)
+- [x]  [Awesome README](https://github.com/matiassingers/awesome-readme)
+- [x]  [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+
+## Authors
+
+ [@mydul](https://github.com/mydul)
+
+
+## About Me
+
+I love to do funs with programming...
+
+<h2> Hi, I'm Mydul Islam! </h2>
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+
+[![Linkedin: Mydul](https://img.shields.io/badge/-mydul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mydul/)](https://www.linkedin.com/in/mydul/)
+[![GitHub Mydul](https://img.shields.io/github/followers/mydul?label=follow&style=social)](https://github.com/mydul)
+
+
+A little more about me...  
+
+```javascript
+const mydul = {
+  pronouns: "He" | "Him",
+  code: [C, Python, HTML, CSS, LATEX, MATLAB, VHDL, Arduino],
+  tools: [Microsoft Office, Proteus, PSpice, LTSpice, OriginPro, MicroWind, COMSOL Multiphysics, Cadence],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "RailsGirls POA"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
+
+⭐️ From [@mydul](https://github.com/mydul)
