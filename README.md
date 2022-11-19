@@ -53,7 +53,7 @@ Distributed for all student under the [personal](https://github.com/mydul) licen
 
 ## Authors
 
-<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="130">
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="160">
 
 ### Hi, I'm Mydul Islam! [![GitHub Mydul](https://img.shields.io/github/followers/mydul?label=follow&style=social)](https://github.com/mydul)
 
