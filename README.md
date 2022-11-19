@@ -57,7 +57,7 @@ Distributed for all student under the [personal](https://github.com/mydul) licen
 
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150">
 <p><em>Masters student at <a href="http://www.uni-siegen.de">Universität Siegen</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-I love to do funs with programming.
+I love to have fun in programming.
 <br> A little more about me...
 </em></p>  
 
