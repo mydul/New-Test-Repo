@@ -29,27 +29,19 @@ To know the core concepts of Python from both a data science and industrial prog
 
 ## Demo
 
+Source Code:
 ```python
-try:
-    me = mydul()
+# This program prints Hello, world!
 
-    while(me.alive()):
-        me.happy()
-
-except NameError as x:
-    print(x)
-
-else:
-    print("A Person called 'Mydul' ")
-
-
-"""name 'mydul' is not defined"""
+print('Hello, world!')
 ```
+Output:
 
+> Hello, world!
 
 ## License
 
-Distributed for all student under the [Universität Siegen](https://www.uni-siegen.de/start/) licence.
+Distributed for all student under the [personal](https://github.com/mydul) licence.
 
 
 ## Acknowledgements
@@ -60,9 +52,6 @@ Distributed for all student under the [Universität Siegen](https://www.uni-sieg
 
 
 ## Authors
-
-⭐️[@mydul](https://github.com/mydul)
-
 
 ### Hi, I'm Mydul Islam!
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
@@ -90,4 +79,4 @@ const mydul = {
 }
 ```
 ---
-
+⭐️[@mydul](https://github.com/mydul)
