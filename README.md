@@ -71,7 +71,7 @@ Distributed for all student under the [Universität Siegen](https://www.uni-sieg
 </em></p>
 
 [![GitHub Mydul](https://img.shields.io/github/followers/mydul?label=follow&style=social)](https://github.com/mydul)
-[![mydul.me](https://img.shields.io/badge/-mydul.me-blue?style=flat-square&logo=firefox&logoColor=white&link=https://www.mydul.me/)](https://www.mydul.me/)
+[![mydul.me](https://img.shields.io/badge/-mydul.me-blue?style=flat-square&logo=firefox&logoColor=white&link=https://www.facebook.com/mydul.me/)](https://www.facebook.com/mydul.me/)
 
 
 A little more about me...  
