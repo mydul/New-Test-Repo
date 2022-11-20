@@ -62,6 +62,7 @@ Distributed for all student under the [personal](https://github.com/mydul) licen
 </em></p>  
 
 A little more about me...
+
 ```javascript
 const mydul = {
   pronouns: "He" | "Him",
@@ -73,7 +74,7 @@ const mydul = {
                         delegate: "Model United Nations",
                         member: "IEEE"
                       },
- challenge: "I am seeking a full-time position in the field of Nanotechnology, Quantum Electronics, Hardware Design & Development"
+ challenge: "I am seeking a full-time position in the field of Nanotechnology, Photonics, and Quantum Electronics"
 }
 ```
 ---
