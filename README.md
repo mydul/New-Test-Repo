@@ -10,7 +10,7 @@ This project is under a university course. The main focus is practicing python w
 
 ### Course Title
 
-Mainly, the course title is *"Scientific programming with Python programming"*.
+Mainly, the course title is **"Scientific programming with Python"**.
 
 ### Course Goals
 
