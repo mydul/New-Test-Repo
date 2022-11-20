@@ -57,11 +57,12 @@ Distributed for all student under the [personal](https://github.com/mydul) licen
 ### Hi, I'm Mydul Islam!
 [![GitHub Mydul](https://img.shields.io/github/followers/mydul?label=follow&style=social)](https://github.com/mydul)
 
-<p><em>Masters student at <a href="http://www.uni-siegen.de">Universität Siegen</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-I love to have fun in programming.
-<br> A little more about me...
+<p><em>I am a masters student at <a href="http://www.uni-siegen.de">Universität Siegen</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<br> I love to have fun with programming.
+
 </em></p>  
 
+A little more about me...
 ```javascript
 const mydul = {
   pronouns: "He" | "Him",
