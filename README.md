@@ -74,7 +74,7 @@ const mydul = {
                         delegate: "Model United Nations",
                         member: "IEEE"
                       },
- challenge: "I am seeking a full-time position in the field of Nanotechnology, Photonics, and Quantum Electronics"
+ challenge: "I am seeking a full-time position in the field of Nanotechnology, and Quantum Electronics"
 }
 ```
 ---
