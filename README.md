@@ -10,7 +10,7 @@ This project is under a university course. The main focus is practicing python w
 
 ### Course Title
 
-Mainly, the course title is *"Scientific programming with Python including applications of machine learning, FAIR data and network programming"*.
+Mainly, the course title is *"Scientific programming with Python programming"*.
 
 ### Course Goals
 
