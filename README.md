@@ -57,8 +57,10 @@ Distributed for all student under the [personal](https://github.com/mydul) licen
 ### Hi, I'm Mydul Islam!
 [![GitHub Mydul](https://img.shields.io/github/followers/mydul?label=follow&style=social)](https://github.com/mydul)
 
-<p><em>I am a masters student at <a href="http://www.uni-siegen.de">Universität Siegen</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-I love to have fun with programming. <br>
+<p><em>I am a masters student at <a href="http://www.uni-siegen.de">Universität Siegen</a>
+  I love to have fun with programming.
+  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+  <br>
 </em></p>  
 
 A little more about me...
