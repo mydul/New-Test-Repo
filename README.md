@@ -45,7 +45,7 @@ Output:
 
 ## License
 
-Distributed for all student under the [personal](https://github.com/mydul) licence.
+Distributed for all student by [personal](https://github.com/mydul) licensing under the MIT license.
 
 
 ## Acknowledgements
