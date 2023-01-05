@@ -3,6 +3,19 @@
 
 A brief description of a new repository containing all test project files, including the revision history of a Python Course.
 
+## Table of contents
+
+- 🚀 [Project Goal](#Project-Goal)
+- 📺 [Course Title](#Course-Title)
+- 🗓 [Course Goals](#Course-Goals)
+- 📚 [Content](#Content)
+- 🗄 [Demo](#Demo)
+- ⚖ [License](#License)
+- 💬 [Acknowledgements](#Acknowledgements)
+- 🛠 [Contribution](#contribution)
+- 👨‍💻 [Authors](#Authors)
+- ❓ [FAQ](#)
+
 
 ## Project Goal
 
