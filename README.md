@@ -70,9 +70,9 @@ A little more about me...
 
 ```javascript
 const mydul = {
-  pronouns: "He" | "Him",
-  code: [C, Python, HTML, CSS, LATEX, MATLAB, VHDL, Arduino],
-  tools: [Microsoft Office, Proteus, PSpice, LTSpice, OriginPro, MicroWind, COMSOL Multiphysics, Cadence],
+  pronouns: ["He" "|" "Him"],
+  code: ["C", "C++", "Python", "HTML", "CSS", "LaTeX", "MATLAB", "VHDL", "Arduino" , "Shell script"],
+  tools: ["Microsoft Office", "Proteus", "PSpice", "LTSpice", "OriginPro", "MicroWind", "COMSOL Multiphysics", "Cadence"],
   accustomed: ["Linux", "Windows", "Raspbian"],
   experience: {
                         research_assistant: "Universität Siegen",
